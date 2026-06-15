@@ -1,0 +1,24 @@
+# Support Integrity Auditor (SIA) — Pinned Dependencies
+# Streamlit App: http://localhost:8501 | http://192.168.29.26:8501
+
+# Core ML
+torch==2.3.1
+transformers==4.41.2
+peft==0.11.1
+sentence-transformers==3.0.1
+xgboost==2.0.3
+scikit-learn==1.5.0
+
+# NLP
+vaderSentiment==3.3.2
+
+# Data
+numpy==1.26.4
+pandas==2.2.2
+
+# Web App
+streamlit==1.35.0
+plotly==5.22.0
+
+# Utilities
+accelerate==0.31.0
